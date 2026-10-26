@@ -42,7 +42,7 @@
           "type": "text",
           "name": "t:names.heading",
           "settings": {
-            "text": "<h1>BEYOND THE ORDINARY</h1>",
+            "text": "<h2>BEYOND THE ORDINARY</h2>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
