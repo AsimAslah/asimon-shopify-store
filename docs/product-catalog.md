@@ -55,11 +55,12 @@ A refined everyday carry piece built for clean, hands-free movement. The ASIMON 
 
 ## Development inventory note
 
-Inventory tracking is temporarily disabled for these demonstration products because the development store does not yet have a shipping-origin address. Before launch:
+Inventory and market availability are still being tested in the development store. The storefront currently reports the demonstration products as sold out, including when previewing the Canada market. Before launch:
 
 1. Add the real business or dispatch address in Shopify.
-2. Enable inventory tracking for every variant.
-3. Confirm stock quantities and fulfillment locations.
-4. Test product availability and checkout without placing a real order.
+2. Configure the intended active markets, shipping zones, and fulfillment location.
+3. Apply a consistent inventory policy to every product variant.
+4. Confirm variant publishing, stock quantities, and storefront availability.
+5. Test the cart and checkout without placing a real order.
 
 No payment processing should be activated for this demonstration catalog.
