@@ -1,0 +1,48 @@
+# ASIMON Product Catalog
+
+This document records the demonstration products configured in the ASIMON Fashion Studio Shopify development store. Product pricing and availability in Shopify remain the source of truth.
+
+## ASIMON Noir Tailored Blazer
+
+![ASIMON Noir Tailored Blazer](../design-assets/products/asimon-noir-tailored-blazer-v1.png)
+
+- **Handle:** `asimon-noir-tailored-blazer`
+- **Vendor:** ASIMON
+- **Product type:** Blazer
+- **Collections:** Men's Fashion, New Arrivals
+- **Price:** $129.00
+- **Compare-at price:** $159.00
+- **Options:** Size — S, M, L, XL
+- **SKUs:** `ASI-BLZ-NOIR-001`, `ASI-BLZ-NOIR-002`, `ASI-BLZ-NOIR-003`, `ASI-BLZ-NOIR-004`
+
+### Description
+
+A refined single-breasted blazer designed with a clean, structured silhouette. The versatile black finish delivers modern sophistication for evening occasions, smart-casual styling, and elevated everyday wear.
+
+## ASIMON Charcoal Utility Overshirt
+
+![ASIMON Charcoal Utility Overshirt](../design-assets/products/asimon-charcoal-utility-overshirt-v1.png)
+
+- **Handle:** `asimon-charcoal-utility-overshirt`
+- **Vendor:** ASIMON
+- **Product type:** Overshirt
+- **Collections:** Modern Streetwear, New Arrivals
+- **Price:** $89.00
+- **Compare-at price:** $109.00
+- **Options:** Size — S, M, L, XL
+- **SKUs:** `ASI-OVR-CHAR-S`, `ASI-OVR-CHAR-M`, `ASI-OVR-CHAR-L`, `ASI-OVR-CHAR-XL`
+
+### Description
+
+Designed for clean urban layering, the ASIMON Charcoal Utility Overshirt combines a structured silhouette with understated utility detailing. Its versatile charcoal finish pairs effortlessly with tailored trousers or everyday streetwear for a refined modern look.
+
+## Development inventory note
+
+Inventory tracking is temporarily disabled for these demonstration products because the development store does not yet have a shipping-origin address. Before launch:
+
+1. Add the real business or dispatch address in Shopify.
+2. Enable inventory tracking for every variant.
+3. Confirm stock quantities and fulfillment locations.
+4. Test product availability and checkout without placing a real order.
+
+No payment processing should be activated for this demonstration catalog.
