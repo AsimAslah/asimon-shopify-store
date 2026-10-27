@@ -36,6 +36,23 @@ A refined single-breasted blazer designed with a clean, structured silhouette. T
 
 Designed for clean urban layering, the ASIMON Charcoal Utility Overshirt combines a structured silhouette with understated utility detailing. Its versatile charcoal finish pairs effortlessly with tailored trousers or everyday streetwear for a refined modern look.
 
+## ASIMON Noir Crossbody Bag
+
+![ASIMON Noir Crossbody Bag](../design-assets/products/asimon-noir-crossbody-bag-v1.png)
+
+- **Handle:** `asimon-noir-crossbody-bag`
+- **Vendor:** ASIMON
+- **Product type:** Crossbody Bag
+- **Collections:** Accessories, New Arrivals
+- **Price:** $59.00
+- **Compare-at price:** $79.00
+- **Options:** Default product option; no size variants
+- **SKU:** `ASI-BAG-NOIR-001`
+
+### Description
+
+A refined everyday carry piece built for clean, hands-free movement. The ASIMON Noir Crossbody Bag features a structured compact profile, adjustable strap, smooth zip closure, and understated metal hardware. Its versatile black finish complements tailored and streetwear looks.
+
 ## Development inventory note
 
 Inventory tracking is temporarily disabled for these demonstration products because the development store does not yet have a shipping-origin address. Before launch:
