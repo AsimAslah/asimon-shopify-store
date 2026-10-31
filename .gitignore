@@ -147,3 +147,9 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+# Unrelated local presentation tooling and generated artifacts
+.codex-finalizer/
+first-review-format/
+output/
+ppt-font-audit/
