@@ -95,7 +95,7 @@
           "name": "t:names.button",
           "settings": {
             "label": "EXPLORE COLLECTION",
-            "link": "shopify://collections/all",
+            "link": "shopify://collections/new-arrivals",
             "open_in_new_tab": false,
             "style_class": "button-custom",
             "custom_button_background": "#ffffff",
